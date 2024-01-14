@@ -1,5 +1,6 @@
 /*styles*/
 p {
  color: red;
- padding 2x;  
+ padding 2x;
+ margin: 1 rem;  
 }
